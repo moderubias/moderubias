@@ -31,6 +31,9 @@ Available for selected paid typesetting, tooling, and automation work. [Send me 
 
 **Community.** I run [stemhi](https://t.me/stemhi), a space for STEM, mathematics, programming, and learning. [Telegram](https://t.me/uyfex) is also the best place to reach me for a technical conversation.
 
+![Profile views](https://komarev.com/ghpvc/?username=moderubias&label=Repository_Views&color=416b85&style=flat-square)
+
+
 ---
 
 <details>
