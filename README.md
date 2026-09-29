@@ -1,20 +1,37 @@
-# Akayo Kiyoshima
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img src="assets/header-light.svg" width="400" alt="Akayo Kiyoshima — @moderubias">
+  </picture>
+</h1>
 
-Independent technical builder, working toward AI research.
+**Independent technical builder, working toward AI research.**
 
-I use **Rust and Python** to build tools, automate repetitive work, and try out ideas. Alongside programming, I study higher mathematics, especially linear algebra. I'm building the mathematical and engineering foundations I need for research.
+I'm 21, studying higher mathematics and developing the engineering foundations for research. I build tools, automate repetitive work, and use small experiments to work through technical ideas.
 
-## LaTeX & technical work
+## Current
 
-I'm developing my LaTeX typesetting practice and am available for selected paid work: Word/DOCX to `.tex`, mathematical documents, and cleanup of existing LaTeX projects. I'm also working on reusable templates, styles, and document classes.
+- **Mathematics** — linear algebra, mathematical reading, and the foundations needed for AI/ML.
+- **Engineering** — Rust and Python are my current development focus, especially tooling and automation.
 
-For a project, [send me the scope and deadline](https://t.me/uyfex). We'll agree on the deliverables and a realistic schedule before starting. I also consider tooling and automation work with a clear scope.
+## Selected work
 
-## Contact & community
+The public code here reflects earlier **C++** work. Both projects below are experimental, with incomplete APIs and tests.
 
-[Telegram](https://t.me/uyfex) is the best way to reach me for work or a technical conversation.
+**[SeonCore](https://github.com/moderubias/SeonCore)** · C++20<br>Dense matrices, strided views, transposition, and multiplication. An experiment in matrix storage and interfaces. [Read the multiplication code →](https://github.com/moderubias/SeonCore/blob/main/include/seoncore/ops/matmul.hpp)
 
-I run [stemhi](https://t.me/stemhi), a community for STEM, mathematics, programming, and learning.
+**[senkeidaisu](https://github.com/moderubias/senkeidaisu)** · C++20<br>Dense and sparse matrix implementations, with a linear regression experiment built on the matrix code. [Read the regression code →](https://github.com/moderubias/senkeidaisu/blob/main/include/lin_reg.hpp)
+
+## Work & contact
+
+**LaTeX typesetting.** I'm developing my practice with Word/DOCX to `.tex`, mathematical and technical documents, cleanup of existing projects, and reusable `.sty` and `.cls` files.
+
+Available for selected paid typesetting, tooling, and automation work. [Send me the scope and deadline](https://t.me/uyfex); we'll agree on deliverables and a realistic schedule.
+
+**Community.** I run [stemhi](https://t.me/stemhi), a space for STEM, mathematics, programming, and learning. [Telegram](https://t.me/uyfex) is also the best place to reach me for a technical conversation.
+
+---
 
 <details>
 <summary>A personal note on availability</summary>

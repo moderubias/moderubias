@@ -2,11 +2,13 @@
 
 Public repository snapshot: **29 September 2026**. Recommendations below are proposals; account settings and other repositories have not been changed.
 
+**Redesign note:** The first-pass presentation recorded below has since been revised. The README now features SeonCore and senkeidaisu and uses a compact SVG masthead with light/dark variants. The repository findings and metadata/pin recommendations remain applicable.
+
 ## Public evidence
 
-The [account](https://github.com/moderubias) has five public repositories, including the profile. All four code repositories primarily use C++. There are no public Rust, Python, or LaTeX portfolio repositories in this account snapshot. Rust/Python and study direction in the profile come from the author's supplied context. At the author's request, the README contains no project links; these will be added separately.
+The [account](https://github.com/moderubias) has five public repositories, including the profile. All four code repositories primarily use C++. There are no public Rust, Python, or LaTeX portfolio repositories in this account snapshot. Rust/Python and study direction in the profile come from the author's supplied context. In the first pass, the README contained no project links at the author's request.
 
-The published profile currently contains the starter greeting and pins senkaid and SeonCore. Its bio already mentions AI research, mathematics, Rust/Python, and LaTeX. The replacement README explains the current direction and provides a direct contact for work.
+At the initial inspection, the published profile contained the starter greeting and pinned senkaid and SeonCore. Its bio already mentioned AI research, mathematics, Rust/Python, and LaTeX. The replacement README explains the current direction and provides a direct contact for work.
 
 | Repository / inspected revision | Last push | Evidence and limitations |
 | --- | --- | --- |
@@ -58,7 +60,7 @@ The public account currently offers no typesetting samples to inspect. The READM
 
 A useful future `latex-typesetting` repository would contain one original mathematical document as `.tex` and PDF, an original before/after formatting example, and a reusable `.sty` or `.cls` with a working sample. Include the engine and exact build command. Publish it when those artifacts exist; avoid an empty portfolio repository or client material without permission.
 
-## Presentation and upkeep
+## First-pass presentation and upkeep
 
 The profile uses one text heading, short paragraphs, a secondary work section, and a collapsed personal note. Age, language levels, education plans, legal details, and secondary media are omitted. LinkedIn is omitted until its destination is verified. There is no empty project section or placeholder portfolio link.
 

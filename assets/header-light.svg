@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="92" viewBox="0 0 400 92" role="img" aria-labelledby="title desc">
+  <title id="title">Akayo Kiyoshima</title>
+  <desc id="desc">GitHub: @moderubias. A compact typographic masthead with a steel-blue margin rule.</desc>
+  <path d="M2 8V78" fill="none" stroke="#416b85" stroke-width="3"/>
+  <text x="22" y="27" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">@moderubias</text>
+  <text x="20" y="67" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="36" font-weight="600" letter-spacing="-0.8">Akayo Kiyoshima</text>
+</svg>
